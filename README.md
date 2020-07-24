@@ -6,13 +6,13 @@ React frontend and Node.js/Express/Postgres backend app for posting, viewing, an
 * Recovering login status through data hydration
 * Protect against SQL injection attacks by parameterizing database queries
 
-_The backend code in this repository was provided by [Rithm School](https://www.rithmschool.com/). We built the backend as a separate exercise (code can be found [here](https://github.com/andrewsli/express-jobly)). Pair programmed with [Chantal Yuen](https://github.com/cyhk)_
+_The backend code in this repository was provided by [Rithm School](https://www.rithmschool.com/). We built the backend as a separate exercise (code can be found [here](https://github.com/cyhk/jobly)). This project was pair programmed with [Andrew Li](https://github.com/andrewsli)_.
 
 ## Getting Started
 
 1. Clone this repo 
 ```
-git clone https://github.com/andrewsli/react-jobly.git
+git clone https://github.com/cyhk/react-jobly.git
 ```
 2. cd into the "backend" directory, install required packages, create and seed database, and start the server. (Make sure that you have postgreSQL installed)
 ```
