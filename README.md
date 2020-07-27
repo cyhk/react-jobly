@@ -1,6 +1,8 @@
 # react-jobly
 React frontend and Node.js/Express/Postgres backend app for posting, viewing, and applying to job applications.
 
+A deployed version of this app can be found [here](https://react-app-jobly.herokuapp.com).
+
 ### Learnings
 * Authentication and authorization through JWTs
 * Recovering login status through data hydration
